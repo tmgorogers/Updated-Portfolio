@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+
+img {
+    background-image:url(Pink_Icon.jpg);
+    background-position: center;
+    display: flex;
+    padding: 1em;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+    width: 30%;
+    
+    }
+p{
+    text-align: justify;
+}
+
+.work{
+    text-align: center;
+}
+
+#card{
+    border-style:bold;
+    border-color: rgb(231, 139, 193);
+    
+}
+i {
+text-align: center;
+}
