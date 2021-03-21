@@ -1,7 +1,7 @@
 # Updated-PortfolioTitle of app
 
    * Live link to deployed app
-
+         ![Deployed](https://tmgorogers.github.io/Updated-Portfolio/)
    * Links:
          ![resume](TMR Resume 2018.docx)
          ![github](www.github.com/tmgorogers)
