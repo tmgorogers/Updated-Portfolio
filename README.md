@@ -1,4 +1,4 @@
-# Updated-PortfolioTitle of app
+# Updated-Portfolio
 
    * Live link to deployed app
          ![Deployed](https://tmgorogers.github.io/Updated-Portfolio/)
@@ -8,6 +8,7 @@
          ![linkedin](www.linkedin.com/in/tierra-r-46a978101)
 
    * List of technologies used
+   
    HTMl
    CSS
    Bootstrap
