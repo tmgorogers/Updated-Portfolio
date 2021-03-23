@@ -17,9 +17,9 @@
   
    * Screenshots
 
-   ![Screenshot](assets/screenshot.png)
-   ![Screenshot](assets\Password-Generator.png)
-   ![Screenshot](Updated-Portfolio\assets\Work-Day-Scheduler.png)
+   ![Screenshot](assets/Updated-Portfolio.png.)
+   ![Screenshot](assets/Password-Generator.png)
+   ![Screenshot](Updated-Portfolio/assets\Work-Day-Scheduler.png)
 
    
    * License
