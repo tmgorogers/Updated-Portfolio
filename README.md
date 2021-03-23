@@ -1,4 +1,4 @@
-# Updated-PortfolioTitle of app
+# Updated-Portfolio
 
    * Live link to deployed app
          ![Deployed](https://tmgorogers.github.io/Updated-Portfolio/)
