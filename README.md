@@ -17,8 +17,8 @@
   
    * Screenshots
 
-   ![Project Screenshot](Updated-Portfolio\assets\screenshot.png)
-   ![Screenshot](Updated-Portfolio\assets\Password-Generator.png)
+   ![Screenshot](assets\screenshot.png)
+   ![Screenshot](assets\Password-Generator.png)
    ![Screenshot](Updated-Portfolio\assets\Work-Day-Scheduler.png)
 
    
