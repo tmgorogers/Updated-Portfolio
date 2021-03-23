@@ -16,8 +16,8 @@
    * Updated Portfolio featuring Project 1 and two exemplary homework assignments. Updated Github profile with 3 pinned repositories. Updated resume and LinkedIn
   
    * Screenshots
-<img src="/docs/logo.png" alt="My cool logo"/>
-   <img src="/assets/screenshot.png'/>)
+
+   ![Screenshot](assets/screenshot.png)
    ![Screenshot](assets\Password-Generator.png)
    ![Screenshot](Updated-Portfolio\assets\Work-Day-Scheduler.png)
 
