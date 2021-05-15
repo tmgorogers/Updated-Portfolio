@@ -24,7 +24,7 @@
 
    ![Screenshot](assets/UpdatedPortfolio3.png)
 
-   ![Screenshot](/assets/Full Stack Web Development Resume.png)
+   ![Screenshot](assets/Full Stack Web Development Resume.png)
 
    ![Screenshot](assets/Password-Generator.png)
 
