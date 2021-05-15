@@ -23,7 +23,7 @@
   
    * Screenshots
 
-   ![Screenshot](assets/Updated-Portfolio.png)
+   ![Screenshot](assets/UpdatedPortfolio3.png)
 
    ![Screenshot](assets/Password-Generator.png)
 

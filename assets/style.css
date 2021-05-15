@@ -16,7 +16,12 @@ img {
 p{
     text-align: justify;
 }
-
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+       
+  }
 .work{
     text-align: center;
 }
