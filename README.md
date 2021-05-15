@@ -1,13 +1,12 @@
 # Updated-Portfolio
 
    * Live link to deployed app
-         ![Deployed](https://tmgorogers.github.io/Updated-Portfolio/)
+         [Deployed](https://tmgorogers.github.io/Updated-Portfolio/)
    * Links:
-         ![resume](TMR Resume 2018.docx)
-         
-         ![github](https://github.com/tmgorogers)
+                 
+         [github](https://github.com/tmgorogers)
 
-         ![linkedin](https://linkedin.com/in/tierra-r-46a978101)
+         [linkedin](https://linkedin.com/in/tierra-r-46a978101)
 
    * List of technologies used
 
@@ -24,6 +23,8 @@
    * Screenshots
 
    ![Screenshot](assets/UpdatedPortfolio3.png)
+
+   ![Screenshot](file:///C:/Users/user/CodingBootcamp/Updated-Portfolio/assets/Full%20Stack%20Web%20Dev%20Resume.pdf)
 
    ![Screenshot](assets/Password-Generator.png)
 
