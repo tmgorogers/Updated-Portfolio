@@ -24,7 +24,7 @@
 
    ![Screenshot](assets/UpdatedPortfolio3.png)
 
-   ![Screenshot](file:///C:/Users/user/CodingBootcamp/Updated-Portfolio/assets/Full%20Stack%20Web%20Dev%20Resume.pdf)
+   ![Screenshot](assets/Full Stack Web Development Resume.png)
 
    ![Screenshot](assets/Password-Generator.png)
 
